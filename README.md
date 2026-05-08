@@ -1,5 +1,4 @@
-# An weak surface defect inspection approach using efficient multi-scale
-attention and space-to-depth convolution network
+# An weak surface defect inspection approach using efficient multi-scale attention and space-to-depth convolution network
 
 By  Guizhong Fu, Jiaao Chen.
 
