@@ -20,3 +20,5 @@ Baidu Cloud: https://pan.baidu.com/s/1_-VUw1unoDeux5ANXtYRuQ?pwd=iabi Password: 
 ### Contact
 If you have any questions, feel free to contact:
 - Guizhong Fu (fuguizhongchina@163.com)
+
+This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
